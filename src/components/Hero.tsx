@@ -27,9 +27,9 @@ const Hero = () => {
             <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed">
               <strong>Full-stack developer</strong> passionate about building elegant solutions to complex problems.
             </p>
-            <p className="scale-95 md:scale-100 md:text-2xl text-muted-foreground mb-8 leading-relaxed">Always exploring new <strong>technologies</strong> and pushing the <strong>boundaries of what's possible</strong>.</p>
+            <p className="scale-90 md:scale-100 md:text-2xl text-muted-foreground mb-8 leading-relaxed">Always exploring new <strong>technologies</strong> and pushing the <strong>boundaries of what's possible</strong>.</p>
             {/* Social Links */}
-            <div className="flex gap-4 md:justify-start scale-90 justify-center sm:scale-100">
+            <div className="flex gap-4 md:justify-start scale-95 justify-center sm:scale-100 flex-wrap md:flex-nowrap">
               <a
                 href="https://github.com/yashyadurai"
                 target="_blank"
