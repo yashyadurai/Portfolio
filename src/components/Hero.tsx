@@ -24,12 +24,12 @@ const Hero = () => {
             <h1 className="text-5xl md:text-6xl font-bold mb-4">
               Hi, I'm <span className="text-primary">Yash</span>
             </h1>
-            <p className="text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed">
+            <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed">
               <strong>Full-stack developer</strong> passionate about building elegant solutions to complex problems.
-              Always exploring new technologies and pushing the boundaries of what's possible.
             </p>
+            <p className="scale-95 md:scale-100 md:text-2xl text-muted-foreground mb-8 leading-relaxed">Always exploring new <strong>technologies</strong> and pushing the <strong>boundaries of what's possible</strong>.</p>
             {/* Social Links */}
-            <div className="flex gap-4 justify-center md:justify-start">
+            <div className="flex gap-4 md:justify-start scale-90 justify-center sm:scale-100">
               <a
                 href="https://github.com/yashyadurai"
                 target="_blank"
