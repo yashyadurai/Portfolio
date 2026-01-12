@@ -21,7 +21,7 @@ const projects = [
     title: "A Landing Page",
     description: "A Simple Landing Page Built Using HTML CSS",
     tech: ["HTML","CSS"],
-    github: "https://github.com/yashyadurai/Huddle-landing-page",
+    github: "https://github.com/yashyadurai/huddleLandingPage",
     demo: "https://yashyadurai.github.io/huddleLandingPage/",
   },
 ];
